@@ -47,10 +47,4 @@ Future Enhancements:
 
 > On-Premise Deployment: Transitioning to local models (like Llama 3) for enhanced data privacy.
  
-Conclusion:
 
-> FiscalStream is a practical, high-performance project that demonstrates advanced problem-solving in the field of Generative AI.
-
-> It moves beyond simple "chat-with-pdf" apps by introducing a sophisticated compression layer, making it faster, cheaper, and more reliable for professional financial analysis.
-
-> It is designed to be a standout piece in a technical portfolio, showcasing both engineering depth and industry-specific utility.
