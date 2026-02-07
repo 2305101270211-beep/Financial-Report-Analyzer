@@ -1,0 +1,9 @@
+THESE ARE THE LIBRARIES NEED TO INSTALL
+
+streamlit==1.31.0
+llmlingua==0.2.2
+chromadb==0.4.24
+openai==1.12.0
+pypdf==4.0.1
+plotly==5.18.0
+python-dotenv==1.0.1

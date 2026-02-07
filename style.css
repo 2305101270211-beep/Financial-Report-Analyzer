@@ -1,0 +1,11 @@
+/* Add this in your app.py using st.markdown('<style>...</style>') */
+.main {
+    background-color: #f8f9fa;
+}
+.stButton>button {
+    width: 100%;
+    border-radius: 5px;
+    height: 3em;
+    background-color: #007bff;
+    color: white;
+}
